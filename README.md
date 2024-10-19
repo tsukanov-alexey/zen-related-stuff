@@ -1,4 +1,4 @@
-# My own mods for Zen browser
+# Zen browser related stuff (themes, mods, guides)
 
 ## Better – ⧉ ✖ Windows Buttons
 
