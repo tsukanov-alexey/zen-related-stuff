@@ -1,11 +1,7 @@
-# My own useful stuff for Zen browser
+# My own mods for Zen browser
 
-## Published
+## Better – ⧉ ✖ Windows Buttons
 
-There's nothing at this point ¯\\\_(ツ)\_/¯
+Do you rage when looking at the standard Windows buttons? This theme is the Solution.
 
-## Work in Progress
-
-### Better – ⧉ ✖ Windows buttons
-
-Just simple improvement for Windows minimize, restore & close buttons.
+![Screenshot](<assets/[UI] Better – ⧉ ✖ Windows Buttons.png>)
