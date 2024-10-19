@@ -4,4 +4,4 @@
 
 Do you rage when looking at the standard Windows buttons? This theme is the Solution.
 
-![Screenshot](<assets/Better – ⧉ ✖ Windows Buttons.png>)
+![Screenshot](<assets/Better Windows Buttons.png>)
